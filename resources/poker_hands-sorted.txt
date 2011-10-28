@@ -1,0 +1,1500 @@
+ADiamonds 5Diamonds 8Diamonds 2Spades 9Hearts
+2Spades 5Diamonds 8Diamonds 9Hearts ADiamonds
+
+KDiamonds KClubs 6Hearts 9Hearts JSpades
+6Hearts 9Hearts JSpades KClubs KDiamonds
+
+2Clubs 2Hearts 9Hearts KSpades 9Clubs
+2Clubs 2Hearts 9Clubs 9Hearts KSpades
+
+3Clubs 7Spades 4Spades 2Spades 6Clubs
+2Spades 3Clubs 4Spades 6Clubs 7Spades
+
+JHearts 8Clubs 9Spades 4Hearts 2Spades
+2Spades 4Hearts 8Clubs 9Spades JHearts
+
+QDiamonds 6Diamonds 6Spades 2Clubs 9Hearts
+2Clubs 6Diamonds 6Spades 9Hearts QDiamonds
+
+AClubs 9Clubs QClubs 3Diamonds 10Spades
+3Diamonds 9Clubs 10Spades QClubs AClubs
+
+JSpades 8Clubs 6Spades 5Hearts 10Clubs
+5Hearts 6Spades 8Clubs 10Clubs JSpades
+
+JSpades 2Clubs 10Hearts QHearts 2Diamonds
+2Clubs 2Diamonds 10Hearts JSpades QHearts
+
+9Clubs QSpades 6Clubs 5Diamonds 4Spades
+4Spades 5Diamonds 6Clubs 9Clubs QSpades
+
+8Hearts 2Hearts 10Diamonds 4Hearts 4Spades
+2Hearts 4Hearts 4Spades 8Hearts 10Diamonds
+
+9Diamonds KDiamonds 7Clubs ADiamonds JDiamonds
+7Clubs 9Diamonds JDiamonds KDiamonds ADiamonds
+
+KSpades 4Diamonds QHearts 8Spades 7Clubs
+4Diamonds 7Clubs 8Spades QHearts KSpades
+
+6Clubs JDiamonds 9Clubs 9Hearts 3Spades
+3Spades 6Clubs 9Clubs 9Hearts JDiamonds
+
+QHearts 4Spades 7Clubs 5Clubs AClubs
+4Spades 5Clubs 7Clubs QHearts AClubs
+
+ADiamonds KHearts KDiamonds KSpades 8Diamonds
+8Diamonds KDiamonds KHearts KSpades ADiamonds
+
+ASpades 3Clubs 6Spades AHearts 7Diamonds
+3Clubs 6Spades 7Diamonds AHearts ASpades
+
+5Spades 5Hearts 4Spades JDiamonds 3Diamonds
+3Diamonds 4Spades 5Hearts 5Spades JDiamonds
+
+2Hearts 4Diamonds 5Diamonds 5Clubs QSpades
+2Hearts 4Diamonds 5Clubs 5Diamonds QSpades
+
+3Diamonds 10Clubs KDiamonds 3Clubs JDiamonds
+3Clubs 3Diamonds 10Clubs JDiamonds KDiamonds
+
+10Diamonds AClubs 8Diamonds 6Clubs JHearts
+6Clubs 8Diamonds 10Diamonds JHearts AClubs
+
+KDiamonds 2Spades 8Hearts KClubs 6Spades
+2Spades 6Spades 8Hearts KClubs KDiamonds
+
+10Spades QHearts 5Hearts 6Diamonds 2Diamonds
+2Diamonds 5Hearts 6Diamonds 10Spades QHearts
+
+6Hearts ADiamonds 7Clubs AHearts 8Hearts
+6Hearts 7Clubs 8Hearts ADiamonds AHearts
+
+AHearts 4Diamonds 7Clubs JClubs 6Diamonds
+4Diamonds 6Diamonds 7Clubs JClubs AHearts
+
+5Hearts AHearts 8Hearts 5Diamonds JSpades
+5Diamonds 5Hearts 8Hearts JSpades AHearts
+
+KClubs 5Hearts QClubs 9Clubs 4Clubs
+4Clubs 5Hearts 9Clubs QClubs KClubs
+
+JDiamonds 7Diamonds 5Spades 8Spades 6Hearts
+5Spades 6Hearts 7Diamonds 8Spades JDiamonds
+
+3Diamonds 5Hearts 6Clubs 6Diamonds 8Diamonds
+3Diamonds 5Hearts 6Clubs 6Diamonds 8Diamonds
+
+QClubs 8Spades 4Diamonds QSpades AClubs
+4Diamonds 8Spades QClubs QSpades AClubs
+
+7Hearts 2Spades 6Clubs 3Spades 3Clubs
+2Spades 3Clubs 3Spades 6Clubs 7Hearts
+
+10Hearts KClubs 6Hearts KDiamonds 9Diamonds
+6Hearts 9Diamonds 10Hearts KClubs KDiamonds
+
+8Clubs 10Spades 4Spades 9Hearts 10Clubs
+4Spades 8Clubs 9Hearts 10Clubs 10Spades
+
+8Clubs 7Hearts 6Diamonds 9Hearts KDiamonds
+6Diamonds 7Hearts 8Clubs 9Hearts KDiamonds
+
+2Diamonds QDiamonds 7Clubs 4Spades KDiamonds
+2Diamonds 4Spades 7Clubs QDiamonds KDiamonds
+
+4Hearts KClubs 2Hearts QHearts 8Hearts
+2Hearts 4Hearts 8Hearts QHearts KClubs
+
+6Clubs 6Diamonds 3Spades KHearts JSpades
+3Spades 6Clubs 6Diamonds JSpades KHearts
+
+2Hearts 9Hearts 8Hearts 9Spades KClubs
+2Hearts 8Hearts 9Hearts 9Spades KClubs
+
+2Clubs ASpades 3Diamonds 2Diamonds 6Clubs
+2Clubs 2Diamonds 3Diamonds 6Clubs ASpades
+
+9Clubs 10Spades 9Spades 3Spades 3Clubs
+3Clubs 3Spades 9Clubs 9Spades 10Spades
+
+KDiamonds 7Clubs JHearts ADiamonds KHearts
+7Clubs JHearts KDiamonds KHearts ADiamonds
+
+3Spades QDiamonds KSpades JSpades 4Diamonds
+3Spades 4Diamonds JSpades QDiamonds KSpades
+
+2Diamonds 8Spades 7Diamonds 10Spades 7Spades
+2Diamonds 7Diamonds 7Spades 8Spades 10Spades
+
+5Spades 4Clubs 7Hearts JDiamonds 2Hearts
+2Hearts 4Clubs 5Spades 7Hearts JDiamonds
+
+6Clubs JDiamonds 2Diamonds 4Diamonds 8Diamonds
+2Diamonds 4Diamonds 6Clubs 8Diamonds JDiamonds
+
+6Spades JClubs 2Spades 3Spades 9Hearts
+2Spades 3Spades 6Spades 9Hearts JClubs
+
+4Clubs 2Diamonds 6Diamonds 5Diamonds 8Hearts
+2Diamonds 4Clubs 5Diamonds 6Diamonds 8Hearts
+
+5Hearts 10Diamonds QSpades KHearts 3Diamonds
+3Diamonds 5Hearts 10Diamonds QSpades KHearts
+
+7Hearts KClubs 8Clubs ADiamonds JClubs
+7Hearts 8Clubs JClubs KClubs ADiamonds
+
+7Clubs 2Clubs 9Clubs 9Hearts 8Diamonds
+2Clubs 7Clubs 8Diamonds 9Clubs 9Hearts
+
+8Hearts JHearts 9Diamonds 10Hearts 5Clubs
+5Clubs 8Hearts 9Diamonds 10Hearts JHearts
+
+5Diamonds 9Spades 3Diamonds 2Spades KHearts
+2Spades 3Diamonds 5Diamonds 9Spades KHearts
+
+9Diamonds QSpades 6Diamonds KClubs 4Clubs
+4Clubs 6Diamonds 9Diamonds QSpades KClubs
+
+KHearts QSpades 6Clubs 5Diamonds 9Diamonds
+5Diamonds 6Clubs 9Diamonds QSpades KHearts
+
+4Clubs ADiamonds AClubs JDiamonds 5Clubs
+4Clubs 5Clubs JDiamonds AClubs ADiamonds
+
+10Diamonds 3Clubs 4Clubs 9Hearts 2Spades
+2Spades 3Clubs 4Clubs 9Hearts 10Diamonds
+
+QDiamonds 7Diamonds 9Hearts 7Clubs 4Clubs
+4Clubs 7Clubs 7Diamonds 9Hearts QDiamonds
+
+KHearts QHearts QSpades 7Clubs 9Hearts
+7Clubs 9Hearts QHearts QSpades KHearts
+
+2Hearts KSpades 2Diamonds 10Hearts 5Spades
+2Diamonds 2Hearts 5Spades 10Hearts KSpades
+
+QDiamonds 2Spades 10Diamonds 6Spades 10Hearts
+2Spades 6Spades 10Diamonds 10Hearts QDiamonds
+
+10Clubs 2Spades JClubs JHearts QClubs
+2Spades 10Clubs JClubs JHearts QClubs
+
+KDiamonds 6Clubs 8Hearts KHearts 6Spades
+6Clubs 6Spades 8Hearts KDiamonds KHearts
+
+5Spades 3Diamonds 8Clubs JSpades QSpades
+3Diamonds 5Spades 8Clubs JSpades QSpades
+
+7Spades 9Hearts 6Spades 4Clubs 3Spades
+3Spades 4Clubs 6Spades 7Spades 9Hearts
+
+3Spades 2Clubs 2Spades 6Clubs 9Hearts
+2Clubs 2Spades 3Spades 6Clubs 9Hearts
+
+6Diamonds 9Clubs QClubs 6Hearts 3Hearts
+3Hearts 6Diamonds 6Hearts 9Clubs QClubs
+
+5Clubs 10Hearts 6Diamonds 7Spades 10Clubs
+5Clubs 6Diamonds 7Spades 10Clubs 10Hearts
+
+2Hearts QHearts 7Spades 4Hearts 2Spades
+2Hearts 2Spades 4Hearts 7Spades QHearts
+
+JSpades 10Diamonds 2Diamonds 3Clubs 5Spades
+2Diamonds 3Clubs 5Spades 10Diamonds JSpades
+
+7Spades 8Spades 6Clubs 10Spades 9Diamonds
+6Clubs 7Spades 8Spades 9Diamonds 10Spades
+
+ADiamonds 4Spades ASpades 6Spades 5Spades
+4Spades 5Spades 6Spades ADiamonds ASpades
+
+6Diamonds 7Spades 9Spades 4Diamonds 8Spades
+4Diamonds 6Diamonds 7Spades 8Spades 9Spades
+
+4Diamonds QHearts 9Clubs 9Diamonds JClubs
+4Diamonds 9Clubs 9Diamonds JClubs QHearts
+
+2Diamonds KHearts 4Diamonds JDiamonds 9Diamonds
+2Diamonds 4Diamonds 9Diamonds JDiamonds KHearts
+
+10Spades QDiamonds 9Diamonds 3Spades ADiamonds
+3Spades 9Diamonds 10Spades QDiamonds ADiamonds
+
+ADiamonds 7Diamonds 9Clubs KClubs 3Clubs
+3Clubs 7Diamonds 9Clubs KClubs ADiamonds
+
+2Hearts 9Diamonds 5Clubs JDiamonds JClubs
+2Hearts 5Clubs 9Diamonds JClubs JDiamonds
+
+9Spades 6Diamonds 8Spades 9Diamonds 6Clubs
+6Clubs 6Diamonds 8Spades 9Diamonds 9Spades
+
+JClubs 10Spades 2Hearts QHearts 9Hearts
+2Hearts 9Hearts 10Spades JClubs QHearts
+
+6Clubs 6Diamonds AHearts 2Hearts JHearts
+2Hearts 6Clubs 6Diamonds JHearts AHearts
+
+4Hearts 9Diamonds 8Diamonds JHearts 10Diamonds
+4Hearts 8Diamonds 9Diamonds 10Diamonds JHearts
+
+JHearts QSpades AClubs 6Spades KSpades
+6Spades JHearts QSpades KSpades AClubs
+
+ADiamonds 4Diamonds 9Spades 8Diamonds 8Clubs
+4Diamonds 8Clubs 8Diamonds 9Spades ADiamonds
+
+3Diamonds 9Clubs KSpades 4Spades 9Hearts
+3Diamonds 4Spades 9Clubs 9Hearts KSpades
+
+3Clubs 4Hearts QSpades 5Diamonds 8Diamonds
+3Clubs 4Hearts 5Diamonds 8Diamonds QSpades
+
+3Clubs 3Spades 2Diamonds 3Hearts 7Spades
+2Diamonds 3Clubs 3Hearts 3Spades 7Spades
+
+8Hearts KDiamonds 3Spades 2Hearts 5Diamonds
+2Hearts 3Spades 5Diamonds 8Hearts KDiamonds
+
+KDiamonds 8Clubs JDiamonds 5Hearts 3Diamonds
+3Diamonds 5Hearts 8Clubs JDiamonds KDiamonds
+
+3Spades 5Clubs KHearts 5Spades AHearts
+3Spades 5Clubs 5Spades KHearts AHearts
+
+QSpades 9Diamonds 10Spades 5Clubs 4Clubs
+4Clubs 5Clubs 9Diamonds 10Spades QSpades
+
+5Clubs ADiamonds 5Spades 4Clubs 2Diamonds
+2Diamonds 4Clubs 5Clubs 5Spades ADiamonds
+
+ADiamonds 5Diamonds ASpades QSpades 9Clubs
+5Diamonds 9Clubs QSpades ADiamonds ASpades
+
+QSpades 10Hearts QClubs KSpades 9Diamonds
+9Diamonds 10Hearts QClubs QSpades KSpades
+
+4Diamonds 9Clubs QDiamonds 3Hearts 2Spades
+2Spades 3Hearts 4Diamonds 9Clubs QDiamonds
+
+9Clubs 4Clubs 3Spades KDiamonds 9Diamonds
+3Spades 4Clubs 9Clubs 9Diamonds KDiamonds
+
+3Spades 7Spades KHearts KSpades 5Hearts
+3Spades 5Hearts 7Spades KHearts KSpades
+
+5Spades 5Clubs 9Spades 6Spades QHearts
+5Clubs 5Spades 6Spades 9Spades QHearts
+
+JClubs ADiamonds 7Spades 4Hearts 2Diamonds
+2Diamonds 4Hearts 7Spades JClubs ADiamonds
+
+AClubs 4Diamonds 9Spades 9Hearts QSpades
+4Diamonds 9Hearts 9Spades QSpades AClubs
+
+7Spades 5Hearts 5Clubs KDiamonds AHearts
+5Clubs 5Hearts 7Spades KDiamonds AHearts
+
+QSpades JClubs 2Hearts 2Diamonds 2Spades
+2Diamonds 2Hearts 2Spades JClubs QSpades
+
+10Clubs 6Spades 8Clubs 8Spades 7Diamonds
+6Spades 7Diamonds 8Clubs 8Spades 10Clubs
+
+KClubs AClubs AHearts 9Diamonds 3Spades
+3Spades 9Diamonds KClubs AClubs AHearts
+
+2Hearts AClubs 3Spades JSpades 9Spades
+2Hearts 3Spades 9Spades JSpades AClubs
+
+3Hearts JHearts KClubs 9Clubs 8Clubs
+3Hearts 8Clubs 9Clubs JHearts KClubs
+
+3Diamonds ASpades 8Hearts 8Spades 9Diamonds
+3Diamonds 8Hearts 8Spades 9Diamonds ASpades
+
+QSpades 5Diamonds ASpades AHearts 7Hearts
+5Diamonds 7Hearts QSpades AHearts ASpades
+
+8Diamonds 2Clubs 5Spades JSpades 6Clubs
+2Clubs 5Spades 6Clubs 8Diamonds JSpades
+
+JSpades 9Hearts 10Clubs 6Diamonds KClubs
+6Diamonds 9Hearts 10Clubs JSpades KClubs
+
+7Diamonds 8Hearts 10Diamonds 7Hearts 4Hearts
+4Hearts 7Diamonds 7Hearts 8Hearts 10Diamonds
+
+ASpades 4Hearts QDiamonds 6Clubs 7Spades
+4Hearts 6Clubs 7Spades QDiamonds ASpades
+
+KSpades 3Clubs 7Hearts 7Diamonds 8Hearts
+3Clubs 7Diamonds 7Hearts 8Hearts KSpades
+
+8Diamonds 5Hearts 4Diamonds KHearts 5Clubs
+4Diamonds 5Clubs 5Hearts 8Diamonds KHearts
+
+5Spades 4Hearts 10Hearts 7Spades KHearts
+4Hearts 5Spades 7Spades 10Hearts KHearts
+
+ASpades QSpades ADiamonds 8Clubs 5Clubs
+5Clubs 8Clubs QSpades ADiamonds ASpades
+
+ADiamonds QHearts 3Spades 8Clubs 4Clubs
+3Spades 4Clubs 8Clubs QHearts ADiamonds
+
+5Diamonds 4Clubs AHearts ADiamonds 2Diamonds
+2Diamonds 4Clubs 5Diamonds ADiamonds AHearts
+
+6Diamonds KSpades 7Hearts 6Hearts 5Clubs
+5Clubs 6Diamonds 6Hearts 7Hearts KSpades
+
+QClubs 3Hearts 5Diamonds 4Spades 8Clubs
+3Hearts 4Spades 5Diamonds 8Clubs QClubs
+
+AClubs 6Hearts 7Hearts ADiamonds 2Hearts
+2Hearts 6Hearts 7Hearts AClubs ADiamonds
+
+QClubs JSpades 5Hearts 6Hearts 7Spades
+5Hearts 6Hearts 7Spades JSpades QClubs
+
+JSpades AHearts 8Spades 2Spades 8Diamonds
+2Spades 8Diamonds 8Spades JSpades AHearts
+
+2Spades QClubs 4Diamonds QSpades QHearts
+2Spades 4Diamonds QClubs QHearts QSpades
+
+QHearts JDiamonds 8Clubs 9Hearts KClubs
+8Clubs 9Hearts JDiamonds QHearts KClubs
+
+5Hearts 4Diamonds 4Hearts KClubs 3Clubs
+3Clubs 4Diamonds 4Hearts 5Hearts KClubs
+
+3Clubs 3Spades 8Clubs 7Hearts QClubs
+3Clubs 3Spades 7Hearts 8Clubs QClubs
+
+KHearts 10Hearts 6Diamonds 2Clubs 2Hearts
+2Clubs 2Hearts 6Diamonds 10Hearts KHearts
+
+JSpades KSpades AClubs 9Spades JClubs
+9Spades JClubs JSpades KSpades AClubs
+
+QHearts 5Hearts KDiamonds AHearts 3Diamonds
+3Diamonds 5Hearts QHearts KDiamonds AHearts
+
+QClubs KClubs KHearts 7Clubs 5Hearts
+5Hearts 7Clubs QClubs KClubs KHearts
+
+JDiamonds KSpades 2Hearts 8Diamonds 6Clubs
+2Hearts 6Clubs 8Diamonds JDiamonds KSpades
+
+5Spades 3Spades 3Hearts 10Clubs 2Clubs
+2Clubs 3Hearts 3Spades 5Spades 10Clubs
+
+QSpades 10Diamonds 10Clubs 7Spades 7Clubs
+7Clubs 7Spades 10Clubs 10Diamonds QSpades
+
+4Diamonds 10Diamonds 4Spades 8Hearts 9Hearts
+4Diamonds 4Spades 8Hearts 9Hearts 10Diamonds
+
+9Diamonds 7Diamonds 6Hearts 2Clubs AClubs
+2Clubs 6Hearts 7Diamonds 9Diamonds AClubs
+
+QSpades 7Clubs AHearts 3Spades 8Clubs
+3Spades 7Clubs 8Clubs QSpades AHearts
+
+6Clubs 6Diamonds 4Diamonds 7Clubs 7Diamonds
+4Diamonds 6Clubs 6Diamonds 7Clubs 7Diamonds
+
+QClubs 2Clubs QDiamonds AHearts QSpades
+2Clubs QClubs QDiamonds QSpades AHearts
+
+6Diamonds 5Diamonds 6Hearts 9Clubs 2Spades
+2Spades 5Diamonds 6Diamonds 6Hearts 9Clubs
+
+4Clubs 3Clubs 5Clubs QHearts 7Hearts
+3Clubs 4Clubs 5Clubs 7Hearts QHearts
+
+9Diamonds 9Spades 10Spades 3Clubs JClubs
+3Clubs 9Diamonds 9Spades 10Spades JClubs
+
+7Spades 4Diamonds 2Clubs QClubs AHearts
+2Clubs 4Diamonds 7Spades QClubs AHearts
+
+5Diamonds 5Hearts 8Diamonds 4Hearts 7Hearts
+4Hearts 5Diamonds 5Hearts 7Hearts 8Diamonds
+
+AClubs 5Hearts QDiamonds KHearts 7Hearts
+5Hearts 7Hearts QDiamonds KHearts AClubs
+
+QHearts 5Clubs 10Diamonds 10Clubs 5Diamonds
+5Clubs 5Diamonds 10Clubs 10Diamonds QHearts
+
+ASpades 9Diamonds 3Spades 5Diamonds 7Hearts
+3Spades 5Diamonds 7Hearts 9Diamonds ASpades
+
+7Clubs JHearts 8Spades QClubs 10Clubs
+7Clubs 8Spades 10Clubs JHearts QClubs
+
+7Diamonds KClubs 10Hearts 7Clubs 3Clubs
+3Clubs 7Clubs 7Diamonds 10Hearts KClubs
+
+9Diamonds 3Spades AClubs KClubs 9Spades
+3Spades 9Diamonds 9Spades KClubs AClubs
+
+8Spades JClubs 3Spades 9Diamonds 10Clubs
+3Spades 8Spades 9Diamonds 10Clubs JClubs
+
+8Diamonds 4Diamonds 2Diamonds JHearts 10Diamonds
+2Diamonds 4Diamonds 8Diamonds 10Diamonds JHearts
+
+2Hearts 7Diamonds KDiamonds 2Clubs 5Spades
+2Clubs 2Hearts 5Spades 7Diamonds KDiamonds
+
+QClubs 8Clubs 3Hearts 10Clubs JDiamonds
+3Hearts 8Clubs 10Clubs JDiamonds QClubs
+
+7Diamonds 3Spades 5Diamonds KHearts JClubs
+3Spades 5Diamonds 7Diamonds JClubs KHearts
+
+7Hearts ASpades JClubs 6Spades QClubs
+6Spades 7Hearts JClubs QClubs ASpades
+
+3Clubs 3Spades KDiamonds KSpades 9Clubs
+3Clubs 3Spades 9Clubs KDiamonds KSpades
+
+KClubs 2Spades JDiamonds JHearts 5Hearts
+2Spades 5Hearts JDiamonds JHearts KClubs
+
+JHearts 7Hearts KClubs 7Spades QSpades
+7Hearts 7Spades JHearts QSpades KClubs
+
+2Diamonds QDiamonds 9Spades 6Diamonds 10Hearts
+2Diamonds 6Diamonds 9Spades 10Hearts QDiamonds
+
+2Hearts QClubs QHearts 2Clubs 6Clubs
+2Clubs 2Hearts 6Clubs QClubs QHearts
+
+2Hearts 10Diamonds 9Clubs 8Spades 4Spades
+2Hearts 4Spades 8Spades 9Clubs 10Diamonds
+
+10Hearts 7Hearts 3Hearts 6Clubs 7Clubs
+3Hearts 6Clubs 7Clubs 7Hearts 10Hearts
+
+10Clubs JDiamonds KHearts QSpades QClubs
+10Clubs JDiamonds QClubs QSpades KHearts
+
+AClubs 2Spades 2Hearts 7Clubs 5Spades
+2Hearts 2Spades 5Spades 7Clubs AClubs
+
+JClubs 9Clubs 5Spades 2Hearts 4Spades
+2Hearts 4Spades 5Spades 9Clubs JClubs
+
+QHearts 10Diamonds 3Diamonds 10Spades JDiamonds
+3Diamonds 10Diamonds 10Spades JDiamonds QHearts
+
+9Clubs 4Diamonds 7Clubs JSpades JClubs
+4Diamonds 7Clubs 9Clubs JClubs JSpades
+
+9Diamonds 7Diamonds QSpades 2Diamonds 4Diamonds
+2Diamonds 4Diamonds 7Diamonds 9Diamonds QSpades
+
+8Spades KHearts 9Spades 10Spades 2Hearts
+2Hearts 8Spades 9Spades 10Spades KHearts
+
+8Diamonds ADiamonds 9Clubs 2Spades 8Spades
+2Spades 8Diamonds 8Spades 9Clubs ADiamonds
+
+QHearts AClubs 3Clubs 2Spades 5Clubs
+2Spades 3Clubs 5Clubs QHearts AClubs
+
+AHearts 4Hearts QHearts KDiamonds 8Clubs
+4Hearts 8Clubs QHearts KDiamonds AHearts
+
+10Clubs 6Spades 4Hearts KSpades 9Diamonds
+4Hearts 6Spades 9Diamonds 10Clubs KSpades
+
+4Hearts 10Hearts JSpades 10Diamonds 6Diamonds
+4Hearts 6Diamonds 10Diamonds 10Hearts JSpades
+
+2Hearts ASpades KClubs 9Diamonds 8Spades
+2Hearts 8Spades 9Diamonds KClubs ASpades
+
+2Hearts KDiamonds 10Clubs 3Clubs 6Hearts
+2Hearts 3Clubs 6Hearts 10Clubs KDiamonds
+
+4Diamonds 8Clubs 7Clubs 10Diamonds 8Diamonds
+4Diamonds 7Clubs 8Clubs 8Diamonds 10Diamonds
+
+KSpades 4Spades KClubs 9Clubs 10Clubs
+4Spades 9Clubs 10Clubs KClubs KSpades
+
+QDiamonds 4Spades 6Clubs 10Clubs 2Spades
+2Spades 4Spades 6Clubs 10Clubs QDiamonds
+
+KDiamonds 2Diamonds 7Hearts ADiamonds JSpades
+2Diamonds 7Hearts JSpades KDiamonds ADiamonds
+
+JClubs 3Clubs 7Hearts 10Hearts AHearts
+3Clubs 7Hearts 10Hearts JClubs AHearts
+
+7Clubs 8Clubs ASpades 10Clubs 4Clubs
+4Clubs 7Clubs 8Clubs 10Clubs ASpades
+
+4Spades 4Hearts AHearts 7Hearts 9Diamonds
+4Hearts 4Spades 7Hearts 9Diamonds AHearts
+
+JDiamonds 4Hearts 3Diamonds QHearts 9Diamonds
+3Diamonds 4Hearts 9Diamonds JDiamonds QHearts
+
+4Spades JSpades 5Hearts KDiamonds 4Diamonds
+4Diamonds 4Spades 5Hearts JSpades KDiamonds
+
+KSpades JHearts QHearts 7Diamonds 3Spades
+3Spades 7Diamonds JHearts QHearts KSpades
+
+QHearts 5Hearts 3Clubs 3Spades 6Diamonds
+3Clubs 3Spades 5Hearts 6Diamonds QHearts
+
+8Spades 8Clubs 2Clubs 2Spades 7Spades
+2Clubs 2Spades 7Spades 8Clubs 8Spades
+
+5Hearts 7Clubs QHearts KHearts 9Hearts
+5Hearts 7Clubs 9Hearts QHearts KHearts
+
+5Clubs 5Diamonds JSpades 10Spades 7Hearts
+5Clubs 5Diamonds 7Hearts 10Spades JSpades
+
+QDiamonds AHearts ASpades 4Hearts 8Hearts
+4Hearts 8Hearts QDiamonds AHearts ASpades
+
+JClubs JHearts 5Diamonds KHearts 10Clubs
+5Diamonds 10Clubs JClubs JHearts KHearts
+
+KDiamonds 4Spades 3Clubs 3Hearts 9Diamonds
+3Clubs 3Hearts 4Spades 9Diamonds KDiamonds
+
+KDiamonds AClubs 8Spades 10Hearts 10Clubs
+8Spades 10Clubs 10Hearts KDiamonds AClubs
+
+3Clubs 4Hearts 6Hearts 8Diamonds 7Clubs
+3Clubs 4Hearts 6Hearts 7Clubs 8Diamonds
+
+ASpades 10Hearts 2Clubs 8Diamonds 8Hearts
+2Clubs 8Diamonds 8Hearts 10Hearts ASpades
+
+6Diamonds 5Diamonds JDiamonds 3Diamonds 8Spades
+3Diamonds 5Diamonds 6Diamonds 8Spades JDiamonds
+
+KSpades 8Clubs 9Spades 3Hearts 5Spades
+3Hearts 5Spades 8Clubs 9Spades KSpades
+
+9Diamonds 8Hearts 7Spades 8Diamonds KSpades
+7Spades 8Diamonds 8Hearts 9Diamonds KSpades
+
+KSpades KDiamonds JHearts KHearts 3Spades
+3Spades JHearts KDiamonds KHearts KSpades
+
+JClubs QSpades 4Diamonds KHearts 10Clubs
+4Diamonds 10Clubs JClubs QSpades KHearts
+
+4Diamonds 5Diamonds 3Hearts ADiamonds 2Diamonds
+2Diamonds 3Hearts 4Diamonds 5Diamonds ADiamonds
+
+ADiamonds 8Hearts 2Clubs 10Spades 5Hearts
+2Clubs 5Hearts 8Hearts 10Spades ADiamonds
+
+9Hearts 7Hearts 8Hearts AClubs ASpades
+7Hearts 8Hearts 9Hearts AClubs ASpades
+
+5Hearts JDiamonds 9Diamonds KClubs 6Clubs
+5Hearts 6Clubs 9Diamonds JDiamonds KClubs
+
+8Hearts 6Diamonds 7Clubs JSpades 2Spades
+2Spades 6Diamonds 7Clubs 8Hearts JSpades
+
+10Hearts JSpades 2Hearts 4Clubs ASpades
+2Hearts 4Clubs 10Hearts JSpades ASpades
+
+AHearts JClubs 5Spades 9Hearts ADiamonds
+5Spades 9Hearts JClubs ADiamonds AHearts
+
+8Spades AHearts 9Hearts 2Diamonds 10Clubs
+2Diamonds 8Spades 9Hearts 10Clubs AHearts
+
+4Spades QClubs 4Clubs AHearts 9Hearts
+4Clubs 4Spades 9Hearts QClubs AHearts
+
+KHearts 2Hearts 7Spades 9Clubs 10Clubs
+2Hearts 7Spades 9Clubs 10Clubs KHearts
+
+10Clubs 5Spades QDiamonds 4Spades 10Diamonds
+4Spades 5Spades 10Clubs 10Diamonds QDiamonds
+
+4Diamonds 10Diamonds 8Diamonds 5Diamonds KClubs
+4Diamonds 5Diamonds 8Diamonds 10Diamonds KClubs
+
+7Hearts KDiamonds 4Spades 6Spades 6Hearts
+4Spades 6Hearts 6Spades 7Hearts KDiamonds
+
+2Clubs KDiamonds 4Diamonds 6Hearts 9Hearts
+2Clubs 4Diamonds 6Hearts 9Hearts KDiamonds
+
+JSpades 8Diamonds QHearts 5Spades 2Clubs
+2Clubs 5Spades 8Diamonds JSpades QHearts
+
+4Diamonds ADiamonds 6Diamonds QHearts AHearts
+4Diamonds 6Diamonds QHearts ADiamonds AHearts
+
+5Diamonds 6Diamonds 10Spades 6Hearts 5Spades
+5Diamonds 5Spades 6Diamonds 6Hearts 10Spades
+
+4Diamonds 6Clubs 4Clubs 8Diamonds 8Clubs
+4Clubs 4Diamonds 6Clubs 8Clubs 8Diamonds
+
+KHearts QDiamonds KSpades 7Hearts 5Hearts
+5Hearts 7Hearts QDiamonds KHearts KSpades
+
+10Clubs 4Diamonds QClubs 8Spades 7Hearts
+4Diamonds 7Hearts 8Spades 10Clubs QClubs
+
+JClubs 8Clubs 5Spades 10Clubs 4Spades
+4Spades 5Spades 8Clubs 10Clubs JClubs
+
+2Hearts QClubs 5Spades AHearts 2Spades
+2Hearts 2Spades 5Spades QClubs AHearts
+
+7Diamonds 3Hearts 9Diamonds 10Hearts 10Clubs
+3Hearts 7Diamonds 9Diamonds 10Clubs 10Hearts
+
+3Diamonds KDiamonds 3Hearts 5Spades QSpades
+3Diamonds 3Hearts 5Spades QSpades KDiamonds
+
+9Hearts 8Clubs 5Spades 10Diamonds 4Hearts
+4Hearts 5Spades 8Clubs 9Hearts 10Diamonds
+
+10Hearts 6Diamonds KSpades 9Diamonds JSpades
+6Diamonds 9Diamonds 10Hearts JSpades KSpades
+
+9Spades 9Diamonds 6Hearts 10Diamonds 3Diamonds
+3Diamonds 6Hearts 9Diamonds 9Spades 10Diamonds
+
+2Clubs QSpades 7Diamonds 2Diamonds 6Hearts
+2Clubs 2Diamonds 6Hearts 7Diamonds QSpades
+
+AClubs 5Clubs 10Diamonds 5Diamonds 7Clubs
+5Clubs 5Diamonds 7Clubs 10Diamonds AClubs
+
+2Clubs 9Hearts ASpades QHearts ADiamonds
+2Clubs 9Hearts QHearts ADiamonds ASpades
+
+6Hearts QHearts 9Clubs 9Diamonds QSpades
+6Hearts 9Clubs 9Diamonds QHearts QSpades
+
+7Diamonds 7Hearts 6Spades 5Diamonds 10Clubs
+5Diamonds 6Spades 7Diamonds 7Hearts 10Clubs
+
+JSpades 8Spades 9Spades 10Hearts QClubs
+8Spades 9Spades 10Hearts JSpades QClubs
+
+ASpades 6Clubs 10Diamonds 7Clubs 2Hearts
+2Hearts 6Clubs 7Clubs 10Diamonds ASpades
+
+4Diamonds QHearts 7Diamonds 5Hearts ADiamonds
+4Diamonds 5Hearts 7Diamonds QHearts ADiamonds
+
+3Diamonds QClubs 8Spades 10Hearts 6Clubs
+3Diamonds 6Clubs 8Spades 10Hearts QClubs
+
+8Spades 2Spades KDiamonds 4Spades KSpades
+2Spades 4Spades 8Spades KDiamonds KSpades
+
+4Diamonds 8Clubs 7Clubs 6Hearts QDiamonds
+4Diamonds 6Hearts 7Clubs 8Clubs QDiamonds
+
+QHearts 8Clubs 9Diamonds 2Hearts 6Hearts
+2Hearts 6Hearts 8Clubs 9Diamonds QHearts
+
+JHearts KSpades 2Clubs 3Hearts 3Diamonds
+2Clubs 3Diamonds 3Hearts JHearts KSpades
+
+2Hearts 2Diamonds 7Spades QSpades JDiamonds
+2Diamonds 2Hearts 7Spades JDiamonds QSpades
+
+6Diamonds KSpades 5Hearts 9Hearts 2Hearts
+2Hearts 5Hearts 6Diamonds 9Hearts KSpades
+
+6Spades 5Hearts AHearts 8Diamonds 3Clubs
+3Clubs 5Hearts 6Spades 8Diamonds AHearts
+
+9Diamonds 3Clubs QSpades QClubs 6Diamonds
+3Clubs 6Diamonds 9Diamonds QClubs QSpades
+
+10Spades 8Diamonds QDiamonds 5Spades 5Hearts
+5Hearts 5Spades 8Diamonds 10Spades QDiamonds
+
+4Diamonds JHearts QDiamonds 9Clubs KClubs
+4Diamonds 9Clubs JHearts QDiamonds KClubs
+
+8Spades 6Spades 8Clubs 2Diamonds 6Clubs
+2Diamonds 6Clubs 6Spades 8Clubs 8Spades
+
+KSpades QClubs 3Clubs 3Diamonds 7Hearts
+3Clubs 3Diamonds 7Hearts QClubs KSpades
+
+10Clubs JHearts ADiamonds 3Clubs KDiamonds
+3Clubs 10Clubs JHearts KDiamonds ADiamonds
+
+KHearts JClubs 6Diamonds 5Hearts 6Hearts
+5Hearts 6Diamonds 6Hearts JClubs KHearts
+
+3Hearts 10Hearts QClubs 2Spades 8Hearts
+2Spades 3Hearts 8Hearts 10Hearts QClubs
+
+JDiamonds 6Diamonds JHearts 6Hearts ADiamonds
+6Diamonds 6Hearts JDiamonds JHearts ADiamonds
+
+JSpades 2Hearts JHearts 7Spades 2Spades
+2Hearts 2Spades 7Spades JHearts JSpades
+
+QClubs 5Hearts 9Clubs 6Spades 10Diamonds
+5Hearts 6Spades 9Clubs 10Diamonds QClubs
+
+6Hearts AHearts 10Hearts KClubs KHearts
+6Hearts 10Hearts KClubs KHearts AHearts
+
+5Diamonds JDiamonds 3Diamonds KHearts 4Hearts
+3Diamonds 4Hearts 5Diamonds JDiamonds KHearts
+
+5Clubs 4Clubs 10Spades ASpades 8Hearts
+4Clubs 5Clubs 8Hearts 10Spades ASpades
+
+2Diamonds JClubs 8Spades 9Diamonds JSpades
+2Diamonds 8Spades 9Diamonds JClubs JSpades
+
+QHearts JSpades 2Diamonds 4Spades 8Hearts
+2Diamonds 4Spades 8Hearts JSpades QHearts
+
+QHearts 9Spades 5Spades 8Hearts 4Clubs
+4Clubs 5Spades 8Hearts 9Spades QHearts
+
+KDiamonds 7Clubs JClubs 3Hearts 2Spades
+2Spades 3Hearts 7Clubs JClubs KDiamonds
+
+7Diamonds 5Spades 4Spades KClubs ADiamonds
+4Spades 5Spades 7Diamonds KClubs ADiamonds
+
+2Clubs 10Spades 3Hearts 9Diamonds 9Hearts
+2Clubs 3Hearts 9Diamonds 9Hearts 10Spades
+
+JClubs 3Hearts 4Diamonds 10Clubs AClubs
+3Hearts 4Diamonds 10Clubs JClubs AClubs
+
+3Clubs KDiamonds 3Hearts QSpades 8Clubs
+3Clubs 3Hearts 8Clubs QSpades KDiamonds
+
+JSpades 8Spades KHearts 5Spades KSpades
+5Spades 8Spades JSpades KHearts KSpades
+
+8Clubs 4Diamonds AHearts KSpades 8Diamonds
+4Diamonds 8Clubs 8Diamonds KSpades AHearts
+
+9Diamonds 7Diamonds JSpades 4Hearts ASpades
+4Hearts 7Diamonds 9Diamonds JSpades ASpades
+
+9Hearts 2Clubs 2Diamonds 5Hearts 6Clubs
+2Clubs 2Diamonds 5Hearts 6Clubs 9Hearts
+
+5Spades QClubs JHearts JClubs 10Hearts
+5Spades 10Hearts JClubs JHearts QClubs
+
+KClubs 9Spades 2Clubs 5Clubs 10Clubs
+2Clubs 5Clubs 9Spades 10Clubs KClubs
+
+3Clubs 2Hearts 4Spades 5Hearts 2Clubs
+2Clubs 2Hearts 3Clubs 4Spades 5Hearts
+
+6Clubs 7Diamonds 2Clubs JSpades 3Diamonds
+2Clubs 3Diamonds 6Clubs 7Diamonds JSpades
+
+4Diamonds 10Spades 7Spades QClubs 7Diamonds
+4Diamonds 7Diamonds 7Spades 10Spades QClubs
+
+8Hearts 7Hearts 7Diamonds ASpades 9Diamonds
+7Diamonds 7Hearts 8Hearts 9Diamonds ASpades
+
+2Clubs 8Spades 3Hearts 4Spades 5Clubs
+2Clubs 3Hearts 4Spades 5Clubs 8Spades
+
+9Hearts 10Hearts ADiamonds 4Hearts 10Spades
+4Hearts 9Hearts 10Hearts 10Spades ADiamonds
+
+5Hearts KClubs 2Diamonds QClubs JClubs
+2Diamonds 5Hearts JClubs QClubs KClubs
+
+QDiamonds 10Spades 3Clubs 5Diamonds 6Clubs
+3Clubs 5Diamonds 6Clubs 10Spades QDiamonds
+
+10Clubs 7Hearts 10Diamonds ASpades 10Hearts
+7Hearts 10Clubs 10Diamonds 10Hearts ASpades
+
+JClubs 5Hearts 3Diamonds 7Spades ASpades
+3Diamonds 5Hearts 7Spades JClubs ASpades
+
+KHearts 4Hearts 7Diamonds 9Diamonds JClubs
+4Hearts 7Diamonds 9Diamonds JClubs KHearts
+
+7Spades 3Hearts 5Clubs 4Hearts QSpades
+3Hearts 4Hearts 5Clubs 7Spades QSpades
+
+8Hearts 10Spades 2Clubs 9Spades 7Spades
+2Clubs 7Spades 8Hearts 9Spades 10Spades
+
+ADiamonds 9Clubs 5Spades 8Clubs KSpades
+5Spades 8Clubs 9Clubs KSpades ADiamonds
+
+7Spades 6Hearts ADiamonds QSpades JClubs
+6Hearts 7Spades JClubs QSpades ADiamonds
+
+10Hearts AHearts QClubs 7Spades KSpades
+7Spades 10Hearts QClubs KSpades AHearts
+
+2Hearts 7Hearts KSpades 8Hearts 6Hearts
+2Hearts 6Hearts 7Hearts 8Hearts KSpades
+
+3Clubs 3Hearts 7Hearts QDiamonds 9Hearts
+3Clubs 3Hearts 7Hearts 9Hearts QDiamonds
+
+7Diamonds 9Spades 7Clubs 8Diamonds JHearts
+7Clubs 7Diamonds 8Diamonds 9Spades JHearts
+
+8Hearts QDiamonds 8Clubs 3Spades 7Spades
+3Spades 7Spades 8Clubs 8Hearts QDiamonds
+
+7Hearts 6Hearts 5Clubs 4Spades 7Spades
+4Spades 5Clubs 6Hearts 7Hearts 7Spades
+
+KHearts 4Diamonds 10Spades 6Spades 7Hearts
+4Diamonds 6Spades 7Hearts 10Spades KHearts
+
+3Spades 7Spades 2Diamonds 2Hearts 10Clubs
+2Diamonds 2Hearts 3Spades 7Spades 10Clubs
+
+7Spades 6Clubs 5Spades 9Spades 4Diamonds
+4Diamonds 5Spades 6Clubs 7Spades 9Spades
+
+4Clubs 10Spades JSpades 7Hearts QClubs
+4Clubs 7Hearts 10Spades JSpades QClubs
+
+2Spades 3Clubs 7Spades 5Diamonds KSpades
+2Spades 3Clubs 5Diamonds 7Spades KSpades
+
+4Diamonds 2Clubs 6Hearts 8Spades AHearts
+2Clubs 4Diamonds 6Hearts 8Spades AHearts
+
+10Clubs 7Clubs 2Diamonds 4Spades 6Spades
+2Diamonds 4Spades 6Spades 7Clubs 10Clubs
+
+QClubs 3Diamonds 9Hearts JClubs 2Spades
+2Spades 3Diamonds 9Hearts JClubs QClubs
+
+QDiamonds 2Clubs AHearts 2Spades AClubs
+2Clubs 2Spades QDiamonds AClubs AHearts
+
+3Clubs 2Hearts QSpades JDiamonds 8Clubs
+2Hearts 3Clubs 8Clubs JDiamonds QSpades
+
+4Spades 6Hearts JClubs 2Diamonds KClubs
+2Diamonds 4Spades 6Hearts JClubs KClubs
+
+9Spades 2Diamonds KSpades AHearts JHearts
+2Diamonds 9Spades JHearts KSpades AHearts
+
+JHearts 8Hearts 6Spades KClubs QDiamonds
+6Spades 8Hearts JHearts QDiamonds KClubs
+
+QSpades 10Clubs AHearts 3Spades QHearts
+3Spades 10Clubs QHearts QSpades AHearts
+
+7Diamonds 4Diamonds 9Hearts KHearts 3Clubs
+3Clubs 4Diamonds 7Diamonds 9Hearts KHearts
+
+4Diamonds 5Clubs 9Spades 9Hearts QSpades
+4Diamonds 5Clubs 9Hearts 9Spades QSpades
+
+7Hearts 7Spades 10Spades 7Diamonds 10Clubs
+7Diamonds 7Hearts 7Spades 10Clubs 10Spades
+
+4Spades 5Diamonds 2Diamonds QClubs 6Hearts
+2Diamonds 4Spades 5Diamonds 6Hearts QClubs
+
+2Hearts 2Clubs 5Clubs QHearts 10Hearts
+2Clubs 2Hearts 5Clubs 10Hearts QHearts
+
+6Clubs QClubs KHearts JHearts 3Diamonds
+3Diamonds 6Clubs JHearts QClubs KHearts
+
+10Clubs 3Clubs 9Hearts 10Diamonds JDiamonds
+3Clubs 9Hearts 10Clubs 10Diamonds JDiamonds
+
+10Spades AClubs 2Hearts KSpades 9Hearts
+2Hearts 9Hearts 10Spades KSpades AClubs
+
+8Diamonds 3Diamonds 2Hearts 5Clubs 6Hearts
+2Hearts 3Diamonds 5Clubs 6Hearts 8Diamonds
+
+5Spades KClubs 3Hearts 7Diamonds QDiamonds
+3Hearts 5Spades 7Diamonds QDiamonds KClubs
+
+5Spades 4Diamonds JSpades 6Clubs AHearts
+4Diamonds 5Spades 6Clubs JSpades AHearts
+
+10Spades 4Clubs 7Spades AHearts 2Diamonds
+2Diamonds 4Clubs 7Spades 10Spades AHearts
+
+4Diamonds AClubs 6Spades KSpades 7Spades
+4Diamonds 6Spades 7Spades KSpades AClubs
+
+5Hearts KClubs JHearts 6Spades 2Spades
+2Spades 5Hearts 6Spades JHearts KClubs
+
+4Diamonds 10Diamonds 7Spades KDiamonds KClubs
+4Diamonds 7Spades 10Diamonds KClubs KDiamonds
+
+4Spades 2Hearts KHearts 7Spades JSpades
+2Hearts 4Spades 7Spades JSpades KHearts
+
+JClubs 5Diamonds 4Spades 7Clubs 6Spades
+4Spades 5Diamonds 6Spades 7Clubs JClubs
+
+JHearts 10Spades 5Spades 6Spades 7Spades
+5Spades 6Spades 7Spades 10Spades JHearts
+
+5Clubs 4Diamonds 3Clubs KClubs 9Diamonds
+3Clubs 4Diamonds 5Clubs 9Diamonds KClubs
+
+3Clubs AHearts 6Spades 6Hearts 10Spades
+3Clubs 6Hearts 6Spades 10Spades AHearts
+
+6Spades 4Clubs AClubs 8Hearts 2Spades
+2Spades 4Clubs 6Spades 8Hearts AClubs
+
+3Diamonds 10Hearts 8Hearts 5Spades 8Spades
+3Diamonds 5Spades 8Hearts 8Spades 10Hearts
+
+4Diamonds 5Clubs 2Hearts KSpades QSpades
+2Hearts 4Diamonds 5Clubs QSpades KSpades
+
+2Hearts JSpades 8Spades QSpades 9Spades
+2Hearts 8Spades 9Spades JSpades QSpades
+
+5Clubs 10Diamonds 3Diamonds 8Clubs ADiamonds
+3Diamonds 5Clubs 8Clubs 10Diamonds ADiamonds
+
+5Spades 9Clubs 4Hearts 9Hearts 2Clubs
+2Clubs 4Hearts 5Spades 9Clubs 9Hearts
+
+8Diamonds 9Hearts 6Spades 3Diamonds AHearts
+3Diamonds 6Spades 8Diamonds 9Hearts AHearts
+
+7Spades 10Diamonds 3Hearts 3Spades KClubs
+3Hearts 3Spades 7Spades 10Diamonds KClubs
+
+3Clubs 3Hearts 9Diamonds QHearts 7Spades
+3Clubs 3Hearts 7Spades 9Diamonds QHearts
+
+2Diamonds 5Clubs 4Hearts QSpades 3Spades
+2Diamonds 3Spades 4Hearts 5Clubs QSpades
+
+9Clubs 10Spades 7Spades 3Diamonds 9Spades
+3Diamonds 7Spades 9Clubs 9Spades 10Spades
+
+4Diamonds 10Spades 7Spades 3Spades 7Clubs
+3Spades 4Diamonds 7Clubs 7Spades 10Spades
+
+JSpades 8Spades 4Clubs 3Clubs 8Diamonds
+3Clubs 4Clubs 8Diamonds 8Spades JSpades
+
+ADiamonds 6Hearts 5Clubs QSpades 10Clubs
+5Clubs 6Hearts 10Clubs QSpades ADiamonds
+
+3Diamonds 9Hearts 2Clubs 3Spades 5Clubs
+2Clubs 3Diamonds 3Spades 5Clubs 9Hearts
+
+AClubs 5Clubs JHearts 10Spades JClubs
+5Clubs 10Spades JClubs JHearts AClubs
+
+4Diamonds 5Clubs 10Diamonds ADiamonds QHearts
+4Diamonds 5Clubs 10Diamonds QHearts ADiamonds
+
+6Spades 5Clubs 9Spades 6Clubs 8Spades
+5Clubs 6Clubs 6Spades 8Spades 9Spades
+
+4Diamonds 2Spades JSpades ASpades JHearts
+2Spades 4Diamonds JHearts JSpades ASpades
+
+JDiamonds 4Hearts JHearts 4Spades 8Spades
+4Hearts 4Spades 8Spades JDiamonds JHearts
+
+QClubs 5Diamonds KSpades 7Clubs 3Diamonds
+3Diamonds 5Diamonds 7Clubs QClubs KSpades
+
+9Spades 3Hearts 7Hearts 6Spades JClubs
+3Hearts 6Spades 7Hearts 9Spades JClubs
+
+10Spades 6Spades 10Clubs JClubs 4Spades
+4Spades 6Spades 10Clubs 10Spades JClubs
+
+QSpades 5Spades 7Diamonds JClubs 2Clubs
+2Clubs 5Spades 7Diamonds JClubs QSpades
+
+9Clubs 4Clubs 8Diamonds 3Spades 9Hearts
+3Spades 4Clubs 8Diamonds 9Clubs 9Hearts
+
+JHearts 7Diamonds 3Hearts 8Hearts 3Clubs
+3Clubs 3Hearts 7Diamonds 8Hearts JHearts
+
+4Clubs 7Diamonds KDiamonds QHearts JHearts
+4Clubs 7Diamonds JHearts QHearts KDiamonds
+
+5Hearts KClubs QSpades 8Clubs 10Diamonds
+5Hearts 8Clubs 10Diamonds QSpades KClubs
+
+7Clubs 4Diamonds JDiamonds 5Clubs 10Spades
+4Diamonds 5Clubs 7Clubs 10Spades JDiamonds
+
+2Spades 7Hearts 2Hearts KClubs JDiamonds
+2Hearts 2Spades 7Hearts JDiamonds KClubs
+
+9Diamonds 6Diamonds 5Diamonds 8Diamonds KClubs
+5Diamonds 6Diamonds 8Diamonds 9Diamonds KClubs
+
+9Hearts AHearts 10Diamonds 6Diamonds KSpades
+6Diamonds 9Hearts 10Diamonds KSpades AHearts
+
+10Hearts 9Clubs 7Spades 6Diamonds AHearts
+6Diamonds 7Spades 9Clubs 10Hearts AHearts
+
+ASpades 2Hearts 2Spades JClubs KHearts
+2Hearts 2Spades JClubs KHearts ASpades
+
+3Diamonds 7Hearts ASpades 10Hearts AHearts
+3Diamonds 7Hearts 10Hearts AHearts ASpades
+
+3Diamonds 2Spades 7Clubs AClubs 5Spades
+2Spades 3Diamonds 5Spades 7Clubs AClubs
+
+QSpades 4Hearts JClubs 10Clubs 2Diamonds
+2Diamonds 4Hearts 10Clubs JClubs QSpades
+
+7Diamonds 7Spades 2Spades 9Hearts KClubs
+2Spades 7Diamonds 7Spades 9Hearts KClubs
+
+JSpades JDiamonds 4Clubs 5Clubs 3Diamonds
+3Diamonds 4Clubs 5Clubs JDiamonds JSpades
+
+9Hearts QHearts 4Diamonds KDiamonds 5Diamonds
+4Diamonds 5Diamonds 9Hearts QHearts KDiamonds
+
+ADiamonds 6Diamonds 9Diamonds 3Diamonds 4Clubs
+3Diamonds 4Clubs 6Diamonds 9Diamonds ADiamonds
+
+KDiamonds 8Clubs QClubs 6Hearts QHearts
+6Hearts 8Clubs QClubs QHearts KDiamonds
+
+10Diamonds 10Spades JDiamonds 10Clubs KHearts
+10Clubs 10Diamonds 10Spades JDiamonds KHearts
+
+ASpades 6Clubs 5Spades 4Hearts 3Hearts
+3Hearts 4Hearts 5Spades 6Clubs ASpades
+
+8Hearts 3Diamonds 9Hearts JSpades 7Spades
+3Diamonds 7Spades 8Hearts 9Hearts JSpades
+
+4Clubs 7Spades 5Clubs ADiamonds 2Hearts
+2Hearts 4Clubs 5Clubs 7Spades ADiamonds
+
+8Hearts QClubs AClubs 6Hearts 3Spades
+3Spades 6Hearts 8Hearts QClubs AClubs
+
+6Diamonds 3Hearts 8Diamonds 2Clubs 2Diamonds
+2Clubs 2Diamonds 3Hearts 6Diamonds 8Diamonds
+
+4Hearts 4Spades 2Hearts AClubs KDiamonds
+2Hearts 4Hearts 4Spades KDiamonds AClubs
+
+2Diamonds QDiamonds 2Spades 9Diamonds AClubs
+2Diamonds 2Spades 9Diamonds QDiamonds AClubs
+
+3Hearts AHearts KDiamonds 8Spades 5Hearts
+3Hearts 5Hearts 8Spades KDiamonds AHearts
+
+9Spades 3Spades 10Diamonds 9Diamonds 8Clubs
+3Spades 8Clubs 9Diamonds 9Spades 10Diamonds
+
+7Spades 5Clubs 5Diamonds 4Spades 10Clubs
+4Spades 5Clubs 5Diamonds 7Spades 10Clubs
+
+ASpades ADiamonds 4Spades 10Clubs 4Clubs
+4Clubs 4Spades 10Clubs ADiamonds ASpades
+
+3Hearts 9Hearts 9Diamonds QClubs 8Diamonds
+3Hearts 8Diamonds 9Diamonds 9Hearts QClubs
+
+QDiamonds 10Diamonds 10Hearts 2Hearts 2Spades
+2Hearts 2Spades 10Diamonds 10Hearts QDiamonds
+
+2Hearts 10Hearts 5Diamonds 6Hearts 6Clubs
+2Hearts 5Diamonds 6Clubs 6Hearts 10Hearts
+
+3Spades 8Spades KSpades 3Clubs QSpades
+3Clubs 3Spades 8Spades QSpades KSpades
+
+ADiamonds 5Hearts 7Spades 2Clubs JDiamonds
+2Clubs 5Hearts 7Spades JDiamonds ADiamonds
+
+10Spades 6Clubs 3Hearts 4Clubs 8Clubs
+3Hearts 4Clubs 6Clubs 8Clubs 10Spades
+
+3Hearts 10Hearts JSpades 3Diamonds 3Clubs
+3Clubs 3Diamonds 3Hearts 10Hearts JSpades
+
+3Clubs QSpades 6Clubs 2Spades 10Diamonds
+2Spades 3Clubs 6Clubs 10Diamonds QSpades
+
+JHearts 6Spades KHearts AClubs 7Clubs
+6Spades 7Clubs JHearts KHearts AClubs
+
+7Hearts AHearts 5Diamonds 6Hearts 3Clubs
+3Clubs 5Diamonds 6Hearts 7Hearts AHearts
+
+3Hearts 4Clubs JDiamonds 5Hearts 10Clubs
+3Hearts 4Clubs 5Hearts 10Clubs JDiamonds
+
+KHearts 8Spades 10Hearts 9Clubs JDiamonds
+8Spades 9Clubs 10Hearts JDiamonds KHearts
+
+AClubs 7Clubs 9Spades 3Spades 3Diamonds
+3Diamonds 3Spades 7Clubs 9Spades AClubs
+
+3Spades 10Hearts 3Clubs QClubs JDiamonds
+3Clubs 3Spades 10Hearts JDiamonds QClubs
+
+3Clubs 9Hearts 6Diamonds 9Clubs 6Hearts
+3Clubs 6Diamonds 6Hearts 9Clubs 9Hearts
+
+2Clubs 3Hearts 10Clubs 4Hearts JDiamonds
+2Clubs 3Hearts 4Hearts 10Clubs JDiamonds
+
+5Diamonds 4Spades 4Clubs 9Diamonds 8Clubs
+4Clubs 4Spades 5Diamonds 8Clubs 9Diamonds
+
+6Spades 10Hearts 10Spades 8Spades 7Hearts
+6Spades 7Hearts 8Spades 10Hearts 10Spades
+
+3Clubs KSpades JDiamonds QHearts JClubs
+3Clubs JClubs JDiamonds QHearts KSpades
+
+2Clubs AHearts JDiamonds 9Spades ADiamonds
+2Clubs 9Spades JDiamonds ADiamonds AHearts
+
+5Hearts JDiamonds 10Clubs ADiamonds 3Clubs
+3Clubs 5Hearts 10Clubs JDiamonds ADiamonds
+
+6Spades 7Spades 5Clubs JClubs 4Clubs
+4Clubs 5Clubs 6Spades 7Spades JClubs
+
+10Clubs 10Spades 3Hearts 3Spades QDiamonds
+3Hearts 3Spades 10Clubs 10Spades QDiamonds
+
+KDiamonds 2Clubs AClubs 9Clubs 8Clubs
+2Clubs 8Clubs 9Clubs KDiamonds AClubs
+
+KDiamonds 5Spades 10Spades 3Diamonds 5Diamonds
+3Diamonds 5Diamonds 5Spades 10Spades KDiamonds
+
+4Hearts 3Diamonds 10Spades QDiamonds AClubs
+3Diamonds 4Hearts 10Spades QDiamonds AClubs
+
+JDiamonds JHearts QSpades JClubs 8Spades
+8Spades JClubs JDiamonds JHearts QSpades
+
+4Spades 2Diamonds 5Diamonds AClubs 4Clubs
+2Diamonds 4Clubs 4Spades 5Diamonds AClubs
+
+4Spades 6Spades KClubs 8Diamonds AHearts
+4Spades 6Spades 8Diamonds KClubs AHearts
+
+QDiamonds 10Clubs 3Diamonds 9Hearts 9Diamonds
+3Diamonds 9Diamonds 9Hearts 10Clubs QDiamonds
+
+10Spades 5Diamonds 10Hearts 9Diamonds KClubs
+5Diamonds 9Diamonds 10Hearts 10Spades KClubs
+
+8Hearts KSpades 9Clubs 2Hearts 3Clubs
+2Hearts 3Clubs 8Hearts 9Clubs KSpades
+
+3Diamonds 3Clubs 9Spades 3Spades 9Clubs
+3Clubs 3Diamonds 3Spades 9Clubs 9Spades
+
+2Spades 6Clubs 8Spades ASpades 9Hearts
+2Spades 6Clubs 8Spades 9Hearts ASpades
+
+3Spades KDiamonds 5Spades 2Clubs QHearts
+2Clubs 3Spades 5Spades QHearts KDiamonds
+
+2Clubs 3Clubs 10Diamonds JClubs JHearts
+2Clubs 3Clubs 10Diamonds JClubs JHearts
+
+QHearts 9Diamonds 4Diamonds 5Hearts QClubs
+4Diamonds 5Hearts 9Diamonds QClubs QHearts
+
+2Diamonds KDiamonds 9Clubs 4Clubs 9Hearts
+2Diamonds 4Clubs 9Clubs 9Hearts KDiamonds
+
+9Diamonds KSpades 9Hearts 8Spades 6Spades
+6Spades 8Spades 9Diamonds 9Hearts KSpades
+
+3Hearts JDiamonds JSpades 10Spades 5Spades
+3Hearts 5Spades 10Spades JDiamonds JSpades
+
+9Spades 4Clubs 5Spades ASpades 10Hearts
+4Clubs 5Spades 9Spades 10Hearts ASpades
+
+ADiamonds 5Hearts 6Diamonds 8Clubs 5Diamonds
+5Diamonds 5Hearts 6Diamonds 8Clubs ADiamonds
+
+AHearts 8Hearts 10Hearts 9Hearts 3Hearts
+3Hearts 8Hearts 9Hearts 10Hearts AHearts
+
+3Spades 8Clubs 3Clubs 9Diamonds 2Diamonds
+2Diamonds 3Clubs 3Spades 8Clubs 9Diamonds
+
+10Hearts 9Clubs 3Hearts AHearts ADiamonds
+3Hearts 9Clubs 10Hearts ADiamonds AHearts
+
+5Spades 3Diamonds 8Hearts 10Spades 6Hearts
+3Diamonds 5Spades 6Hearts 8Hearts 10Spades
+
+4Clubs JHearts 10Spades 8Clubs 10Diamonds
+4Clubs 8Clubs 10Diamonds 10Spades JHearts
+
+ADiamonds 3Spades 7Hearts 4Diamonds 10Diamonds
+3Spades 4Diamonds 7Hearts 10Diamonds ADiamonds
+
+8Clubs JHearts 8Hearts 9Diamonds 6Spades
+6Spades 8Clubs 8Hearts 9Diamonds JHearts
+
+5Clubs 8Diamonds 9Diamonds 6Diamonds 4Clubs
+4Clubs 5Clubs 6Diamonds 8Diamonds 9Diamonds
+
+7Clubs AHearts 10Diamonds 7Spades 9Hearts
+7Clubs 7Spades 9Hearts 10Diamonds AHearts
+
+10Clubs JSpades JClubs KDiamonds 9Diamonds
+9Diamonds 10Clubs JClubs JSpades KDiamonds
+
+4Hearts 3Hearts ASpades JSpades 10Clubs
+3Hearts 4Hearts 10Clubs JSpades ASpades
+
+4Clubs QSpades 5Diamonds 4Diamonds 9Spades
+4Clubs 4Diamonds 5Diamonds 9Spades QSpades
+
+8Hearts 8Clubs 7Diamonds 6Clubs 4Clubs
+4Clubs 6Clubs 7Diamonds 8Clubs 8Hearts
+
+ADiamonds 3Spades 6Diamonds 3Hearts 7Diamonds
+3Hearts 3Spades 6Diamonds 7Diamonds ADiamonds
+
+JDiamonds QSpades 6Spades 3Hearts 5Clubs
+3Hearts 5Clubs 6Spades JDiamonds QSpades
+
+QSpades 9Diamonds QClubs 7Spades 4Spades
+4Spades 7Spades 9Diamonds QClubs QSpades
+
+5Spades 6Clubs 4Spades 3Diamonds 7Clubs
+3Diamonds 4Spades 5Spades 6Clubs 7Clubs
+
+2Spades AClubs 6Spades 3Diamonds 5Diamonds
+2Spades 3Diamonds 5Diamonds 6Spades AClubs
+
+5Hearts 2Diamonds 2Hearts 3Spades AClubs
+2Diamonds 2Hearts 3Spades 5Hearts AClubs
+
+6Clubs JClubs 10Diamonds 5Spades 5Clubs
+5Clubs 5Spades 6Clubs 10Diamonds JClubs
+
+JClubs KDiamonds 5Spades 7Spades 10Clubs
+5Spades 7Spades 10Clubs JClubs KDiamonds
+
+JHearts KDiamonds 8Clubs ASpades 6Spades
+6Spades 8Clubs JHearts KDiamonds ASpades
+
+5Hearts 5Diamonds 8Diamonds 10Clubs 6Spades
+5Diamonds 5Hearts 6Spades 8Diamonds 10Clubs
+
+QHearts 4Diamonds 8Clubs KDiamonds 6Diamonds
+4Diamonds 6Diamonds 8Clubs QHearts KDiamonds
+
+JSpades 5Diamonds 2Diamonds 4Diamonds QSpades
+2Diamonds 4Diamonds 5Diamonds JSpades QSpades
+
+6Diamonds 9Spades KSpades 7Hearts 3Spades
+3Spades 6Diamonds 7Hearts 9Spades KSpades
+
+7Hearts 2Diamonds 6Spades 10Diamonds 3Clubs
+2Diamonds 3Clubs 6Spades 7Hearts 10Diamonds
+
+8Clubs 2Diamonds 2Spades 4Hearts 4Clubs
+2Diamonds 2Spades 4Clubs 4Hearts 8Clubs
+
+JSpades 2Hearts 7Diamonds 5Spades 6Hearts
+2Hearts 5Spades 6Hearts 7Diamonds JSpades
+
+QDiamonds AClubs 3Hearts QSpades JDiamonds
+3Hearts JDiamonds QDiamonds QSpades AClubs
+
+9Diamonds 6Diamonds 5Spades QSpades ASpades
+5Spades 6Diamonds 9Diamonds QSpades ASpades
+
+6Diamonds 4Spades 3Diamonds ADiamonds 9Diamonds
+3Diamonds 4Spades 6Diamonds 9Diamonds ADiamonds
+
+5Hearts 2Spades 7Diamonds JClubs KSpades
+2Spades 5Hearts 7Diamonds JClubs KSpades
+
+3Clubs KSpades 5Hearts QSpades 5Clubs
+3Clubs 5Clubs 5Hearts QSpades KSpades
+
+8Hearts QSpades 9Clubs 6Hearts 5Hearts
+5Hearts 6Hearts 8Hearts 9Clubs QSpades
+
+8Diamonds 2Spades 2Clubs 10Hearts 9Hearts
+2Clubs 2Spades 8Diamonds 9Hearts 10Hearts
+
+6Spades KClubs KHearts 5Diamonds 6Diamonds
+5Diamonds 6Diamonds 6Spades KClubs KHearts
+
+10Clubs KClubs JSpades ADiamonds 6Spades
+6Spades 10Clubs JSpades KClubs ADiamonds
+
+3Diamonds 5Spades KDiamonds 3Clubs 2Hearts
+2Hearts 3Clubs 3Diamonds 5Spades KDiamonds
+
+5Spades KClubs 3Spades JSpades QSpades
+3Spades 5Spades JSpades QSpades KClubs
+
+QHearts 3Diamonds 5Hearts 10Spades 4Diamonds
+3Diamonds 4Diamonds 5Hearts 10Spades QHearts
+
+ASpades 5Hearts 7Hearts JDiamonds 8Spades
+5Hearts 7Hearts 8Spades JDiamonds ASpades
+
+ADiamonds 4Clubs 6Spades 5Hearts 5Diamonds
+4Clubs 5Diamonds 5Hearts 6Spades ADiamonds
+
+7Spades 3Spades 6Spades KClubs 8Diamonds
+3Spades 6Spades 7Spades 8Diamonds KClubs
+
+4Spades KSpades 5Hearts 4Clubs 3Clubs
+3Clubs 4Clubs 4Spades 5Hearts KSpades
+
+3Clubs 9Hearts 4Clubs 6Hearts 3Spades
+3Clubs 3Spades 4Clubs 6Hearts 9Hearts
+
+7Clubs AClubs 2Diamonds ADiamonds QSpades
+2Diamonds 7Clubs QSpades AClubs ADiamonds
+
+10Spades 8Diamonds 6Hearts 9Hearts 2Clubs
+2Clubs 6Hearts 8Diamonds 9Hearts 10Spades
+
+5Spades 4Hearts 3Diamonds 2Hearts 5Hearts
+2Hearts 3Diamonds 4Hearts 5Hearts 5Spades
+
+8Spades 3Diamonds 2Hearts 2Diamonds AClubs
+2Diamonds 2Hearts 3Diamonds 8Spades AClubs
+
+8Clubs 2Hearts 8Spades 4Clubs 5Diamonds
+2Hearts 4Clubs 5Diamonds 8Clubs 8Spades
+
+10Spades JDiamonds QSpades JSpades 8Hearts
+8Hearts 10Spades JDiamonds JSpades QSpades
+
+8Hearts 2Diamonds 8Diamonds 5Clubs JDiamonds
+2Diamonds 5Clubs 8Diamonds 8Hearts JDiamonds
+
+3Clubs 9Diamonds 4Spades ASpades ADiamonds
+3Clubs 4Spades 9Diamonds ADiamonds ASpades
+
+ASpades 9Spades ADiamonds KClubs 3Clubs
+3Clubs 9Spades KClubs ADiamonds ASpades
+
+3Hearts JHearts 8Spades 2Spades 3Diamonds
+2Spades 3Diamonds 3Hearts 8Spades JHearts
+
+9Spades ADiamonds 4Spades JHearts JDiamonds
+4Spades 9Spades JDiamonds JHearts ADiamonds
+
+KHearts 9Hearts 2Diamonds QDiamonds 5Clubs
+2Diamonds 5Clubs 9Hearts QDiamonds KHearts
+
+2Spades 5Clubs JSpades 2Diamonds ASpades
+2Diamonds 2Spades 5Clubs JSpades ASpades
+
+3Diamonds QSpades 3Spades KSpades 4Hearts
+3Diamonds 3Spades 4Hearts QSpades KSpades
+
+2Hearts KClubs 6Spades 10Hearts 6Clubs
+2Hearts 6Clubs 6Spades 10Hearts KClubs
+
+QDiamonds 4Spades 5Diamonds QClubs QHearts
+4Spades 5Diamonds QClubs QDiamonds QHearts
+
+AHearts AClubs QSpades 7Clubs 8Clubs
+7Clubs 8Clubs QSpades AClubs AHearts
+
+ASpades 7Spades 8Spades 10Clubs 10Spades
+7Spades 8Spades 10Clubs 10Spades ASpades
+
+9Spades 10Hearts 8Spades 6Hearts JDiamonds
+6Hearts 8Spades 9Spades 10Hearts JDiamonds
+
+8Spades 8Clubs AClubs 5Hearts 7Hearts
+5Hearts 7Hearts 8Clubs 8Spades AClubs
+
+JClubs 2Diamonds ASpades 3Diamonds 9Clubs
+2Diamonds 3Diamonds 9Clubs JClubs ASpades
+
+5Hearts JHearts 7Spades 4Clubs 3Spades
+3Spades 4Clubs 5Hearts 7Spades JHearts
+
+8Clubs 6Hearts 8Diamonds KDiamonds 9Clubs
+6Hearts 8Clubs 8Diamonds 9Clubs KDiamonds
+
+AClubs QSpades 2Spades 10Diamonds JHearts
+2Spades 10Diamonds JHearts QSpades AClubs
+
+2Hearts 2Spades 4Clubs 3Hearts 4Spades
+2Hearts 2Spades 3Hearts 4Clubs 4Spades
+
+QDiamonds 8Diamonds 5Diamonds 10Diamonds 8Spades
+5Diamonds 8Diamonds 8Spades 10Diamonds QDiamonds
+
+ADiamonds 3Hearts AClubs QDiamonds 4Hearts
+3Hearts 4Hearts QDiamonds AClubs ADiamonds
+
+8Spades 5Hearts 10Spades 4Spades 8Clubs
+4Spades 5Hearts 8Clubs 8Spades 10Spades
+
+KDiamonds 8Spades JHearts 6Hearts 2Hearts
+2Hearts 6Hearts 8Spades JHearts KDiamonds
+
+9Hearts 9Clubs KHearts 4Spades KClubs
+4Spades 9Clubs 9Hearts KClubs KHearts
+
+3Diamonds 2Clubs AClubs 5Spades 5Hearts
+2Clubs 3Diamonds 5Hearts 5Spades AClubs
+
