@@ -5,7 +5,10 @@
 (def card-values {"1" 1 "2" 2 "3" 3 "4" 4 "5" 5 "6" 6 "7" 7 "8" 8 "9" 9 "10" 10 "J" 11 "Q" 12 "K" 13 "A" 14})
 
 (defn grok-card [s]
-  "Takes a card as original representation and splits it into ['number', 'suite'], so (first card) gives the number and (last card) gives the suite, first and last statements appear in a lot of places, perhaps a proper structure instead of vector would have made it more readable"
+  "Takes a card as original representation and splits it into ['number', 'suite'],
+so (first card) gives the number and (last card) gives the suite, first and last statements
+appear in a lot of places, perhaps a proper structure instead of vector would have made it
+more readable"
   (let [card-parts (rest (re-matches #"(^\d+|^\w)(\w+)$" s))]
     [(card-values (first card-parts)) (last card-parts)]))
 
