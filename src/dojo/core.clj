@@ -29,7 +29,7 @@ more readable"
   (let [grouped-vals (vals (group-by #(first %) sorted-hand))]
     (reduce #(if (> (count %2) 1) (concat %1 %2) %1) [] grouped-vals)))
 
-;;Check if adjacent card "number" increments by 1
+;;Use reduce to Check if adjacent card "number" (first card) increments by 1
 (defn straight? [sorted-hand]
   (reduce #(cond (nil? %1) nil
                  (= (inc (first %1)) (first %2)) %2)
